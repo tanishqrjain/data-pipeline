@@ -1,4 +1,3 @@
-# Linq Tech Intern Take-Home Assessment
 This project demonstrates a simple data pipeline:
 - A MongoDB database setup
 - Mock data generation & ingestion
